@@ -1,1 +1,3 @@
-Nothing as of now
+Following some web tutorials.
+
+A project using Python
